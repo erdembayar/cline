@@ -1,5 +1,16 @@
 # Changelog
 
+## 3.6.0
+
+### Minor Changes
+
+-   dcd2754: Update Claude 3.5 -> Claude 3.7 in error message/recommendation
+
+### Patch Changes
+
+-   aea06ce: Add retries to Bedrock createMessage
+-   3d34de4: Add timeout option to MCP servers
+
 ## [3.5.0]
 
 -   Add 'Enable extended thinking' option for Claude 3.7 Sonnet, with ability to set different budgets for Plan and Act modes
